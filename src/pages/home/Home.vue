@@ -1,6 +1,7 @@
 <template>
   <div>
     home
+    <router-link to='./list'>to list</router-link>
   </div>
 </template>
 <script>
